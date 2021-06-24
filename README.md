@@ -3,7 +3,7 @@
 
 ## 📖 Sobre 
 
-  Neste desafio recebemos uma aplicação que funcionava com o paradigma mais antigo de React, Class component e o desafio era traze-lo para o novo paradigma com function components e utilizando Hooks
+  Neste desafio recebemos uma aplicação que possuia todos suas funcionalidades em um único arquivo, tornando-se grande e complexo de manutenção, para resolver isso utilizamos um dos poderes do React, a componentização, tornando mais simples e de melhor manutenção.
 
 ## 🚀 Tecnologias
 
